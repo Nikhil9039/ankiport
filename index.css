@@ -27,8 +27,8 @@ html, body {
     height: 100%;
     width: 67%;
 /*     background-color: hsl(344, 79%, 17%); */
-    /* background-image: url('https://images.unsplash.com/photo-1529626455594-4ff0802cfb7e?ixlib=rb-4.0.3&ixid=M3wxMjA3fDB8MHxzZWFyY2h8Nnx8bW9kZWx8ZW58MHx8MHx8fDA%3D&auto=format&fit=crop&w=500&q=60'); */
-    background-image: url('/WhatsApp\ Image\ 2023-07-08\ at\ 15.43.56\ \(1\).jpeg');
+    background-image: url('https://images.unsplash.com/photo-1529626455594-4ff0802cfb7e?ixlib=rb-4.0.3&ixid=M3wxMjA3fDB8MHxzZWFyY2h8Nnx8bW9kZWx8ZW58MHx8MHx8fDA%3D&auto=format&fit=crop&w=500&q=60');
+/*     background-image: url('/WhatsApp\ Image\ 2023-07-08\ at\ 15.43.56\ \(1\).jpeg'); */
     background-size: cover;
     background-position: center;
 }
